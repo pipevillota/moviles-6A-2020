@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/iteSearch"
+        android:title="@string/title_search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/iteHelp"
+        android:title="@string/title_Help"
+        android:icon="@drawable/ic_help"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/iteAboutOF"
+        android:title="@string/title_AboutOF" />
+    <item
+        android:id="@+id/iteExit"
+        android:title="@string/title_ite_exit" />
+
+</menu>

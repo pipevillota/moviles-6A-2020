@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Palette Colors</string>
+    <string name="img_content_desc">Icono app</string>
+    <string name="lbl_red">Rojo</string>
+    <string name="lbl_green">Verde</string>
+    <string name="lbl_blue">Azul</string>
+    <string name="lbl_alpha">Alfa</string>
+    <string name="title_AboutOF">Acerca de</string>
+    <string name="title_Help">Atuda</string>
+    <string name="bg_image">Imagen de fondo</string>
+    <string name="title_ite_exit">salir</string>
+    <string name="title_search">buscar</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Palette Colors</string>
+
+    <string name="img_content_desc">Icon app</string>
+
+    <string name="lbl_red">Red</string>
+    <string name="lbl_green">Green</string>
+    <string name="lbl_blue">Blue</string>
+    <string name="lbl_alpha">Alpha</string>
+
+    <string name="title_AboutOF">About of</string>
+    <string name="title_Help">Help</string>
+
+    <string name="bg_image">Background image </string>
+
+    <string name="title_ite_exit">Exit </string>
+    <string name="title_search">Search </string>
+
+
+</resources>
